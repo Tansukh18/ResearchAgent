@@ -46,10 +46,10 @@ An autonomous, full-stack AI research agent that takes a user query, dynamically
 ## 📸 Glimpse of the Application
 
 ### Agent Thinking & Searching
-![Agent Thinking Process](./Screenshot%202026-03-14%20at%209.21.17%20PM.jpg)
+![Agent Thinking Process](./agent-thinking.jpg)
 
 ### Final Generated Report
-![Generated Markdown Report](./Screenshot%202026-03-14%20at%209.10.49%20PM.jpg)
+![Generated Markdown Report](./generated-report.jpg)
 
 ---
 
